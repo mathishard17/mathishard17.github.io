@@ -354,6 +354,17 @@ main {
   color: var(--fg);
 }
 
+.authors {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.authors strong {
+  color: var(--fg);
+  font-weight: 600;
+}
+
 /* Awards */
 .awards {
   list-style: none;
